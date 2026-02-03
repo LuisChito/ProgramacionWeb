@@ -1,0 +1,10 @@
+
+# Programación Web - 7SB
+
+Este repositorio contiene ejercicios y proyectos de la materia Programación Web del séptimo semestre.
+
+**Contenido:** Ejercicios prácticos de desarrollo web, incluyendo HTML, CSS, JavaScript (Chance).
+
+**Objetivo:** Pasar la materia.
+
+Consulta las carpetas de cada unidad para más detalles sobre los ejercicios específicos.
