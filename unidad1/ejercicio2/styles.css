@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body {
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(150, 143, 143);
     color: rgb(255, 255, 255);
     font-family: Helvetica;
     font-size: 16px;
@@ -30,7 +30,7 @@ body {
     line-height: 30px;
     border: 1px solid #daa520;
     padding-left: 50px;
-    margin-top: 20px;
+    
 }
 .listasOrdenadas{
     color: #228b22;
@@ -60,4 +60,46 @@ body {
     width: 1200px;
     border: 1px solid #228b22;
     margin: auto;
+}
+.canales{
+    font-size: 16px;
+}
+
+.slack{
+    width: 1200px;
+    margin: auto;
+    text-align: center;
+}
+.Trabaja{
+ font-size: 56px;
+ width: 740px;
+ margin: auto;
+ line-height: 50px;
+}
+.titleSlack{
+    font-size: 14px;
+    padding: 10px;
+}
+.CanalesSlack{
+    margin-top: 200px;
+    color: #396547;
+}
+.info{
+    font-size: 14px;
+    padding: 100px;
+    width: 10px;
+    line-height: 28px;
+    margin: 100px;
+}
+.BTN{
+    background-color: #7d4982;
+    border: none;
+    color: #000000;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
